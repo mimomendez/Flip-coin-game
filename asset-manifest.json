@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flip-coin-game/static/css/main.841a66a5.chunk.css",
+    "main.js": "/Flip-coin-game/static/js/main.6c5378eb.chunk.js",
+    "main.js.map": "/Flip-coin-game/static/js/main.6c5378eb.chunk.js.map",
+    "runtime-main.js": "/Flip-coin-game/static/js/runtime-main.b14ccf6c.js",
+    "runtime-main.js.map": "/Flip-coin-game/static/js/runtime-main.b14ccf6c.js.map",
+    "static/js/2.7b75d9a2.chunk.js": "/Flip-coin-game/static/js/2.7b75d9a2.chunk.js",
+    "static/js/2.7b75d9a2.chunk.js.map": "/Flip-coin-game/static/js/2.7b75d9a2.chunk.js.map",
+    "static/js/3.b551c214.chunk.js": "/Flip-coin-game/static/js/3.b551c214.chunk.js",
+    "static/js/3.b551c214.chunk.js.map": "/Flip-coin-game/static/js/3.b551c214.chunk.js.map",
+    "index.html": "/Flip-coin-game/index.html",
+    "static/css/main.841a66a5.chunk.css.map": "/Flip-coin-game/static/css/main.841a66a5.chunk.css.map",
+    "static/js/2.7b75d9a2.chunk.js.LICENSE.txt": "/Flip-coin-game/static/js/2.7b75d9a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14ccf6c.js",
+    "static/js/2.7b75d9a2.chunk.js",
+    "static/css/main.841a66a5.chunk.css",
+    "static/js/main.6c5378eb.chunk.js"
+  ]
+}
